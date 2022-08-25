@@ -11,5 +11,5 @@ class CaptchaNotSolved(Exception):
     pass
 
 
-class ER,TGLoggedOut(Exception):
+class LoggedOut(Exception):
     pass
